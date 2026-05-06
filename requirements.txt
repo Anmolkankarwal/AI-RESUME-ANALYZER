@@ -2,4 +2,4 @@ flask
 
 PyPDF2
 docx2txt
-sklearn
+scikit-learn
